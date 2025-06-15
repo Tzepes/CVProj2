@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignore frames folder
+frames/
+train/
